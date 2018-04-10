@@ -18,7 +18,8 @@ namespace SourceControlTest
       {
          Application.EnableVisualStyles( );
          Application.SetCompatibleTextRenderingDefault( false );
-         //@#$% ---
+         //@#$% 
+         /*xxxxx */
          BonusSkins.Register( );
          SkinManager.EnableFormSkins( );
          UserLookAndFeel.Default.SetSkinStyle( "DevExpress Style" );
